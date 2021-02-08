@@ -1,4 +1,4 @@
-package net.codejava;
+package com.vishalbhingardeve;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
